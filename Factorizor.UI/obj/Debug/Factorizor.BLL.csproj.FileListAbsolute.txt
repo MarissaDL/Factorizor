@@ -1,0 +1,6 @@
+C:\Users\maris\source\repos\Factorizor\Factorizor.UI\obj\Debug\Factorizor.BLL.csproj.CoreCompileInputs.cache
+C:\Users\maris\source\repos\Factorizor\Factorizor.UI\bin\Debug\Factorizor.BLL.dll
+C:\Users\maris\source\repos\Factorizor\Factorizor.UI\bin\Debug\Factorizor.BLL.pdb
+C:\Users\maris\source\repos\Factorizor\Factorizor.UI\obj\Debug\Factorizor.BLL.dll
+C:\Users\maris\source\repos\Factorizor\Factorizor.UI\obj\Debug\Factorizor.BLL.pdb
+C:\Users\maris\source\repos\Factorizor\Factorizor.UI\obj\Debug\Factorizor.BLL.csprojAssemblyReference.cache
